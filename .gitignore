@@ -10,8 +10,14 @@ oengi
 *.pdb
 *.wasm
 
+main
+
 VULKAN_PLAN.md
 
+# Blog notes
+BLOG_REFACTORING.md
+
+# Debugging symbols
 oengi.dSYM/
 
 # Build directory
